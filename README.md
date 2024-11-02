@@ -16,18 +16,18 @@ Jupyter Notebook - Anaconda
 
 *Outputs and results have not been cleared from the jupyter notebook for user convenience*
 
-# Distributions of Squirrel Primary Fur Colors
+## Distributions of Squirrel Primary Fur Colors
 ![Distributions of Squirrel Primary Fur Colors](https://github.com/colonistz-1/2018centralpark_squirrel_census/blob/main/Images/distributions_of_primaryfurcolor.png?raw=true)
-# Map of all Grey Squirrels in Central Park
+## Map of all Grey Squirrels in Central Park
 ![Distributions of Squirrel Primary Fur Colors](https://github.com/colonistz-1/2018centralpark_squirrel_census/blob/main/Images/map_of_all_grey_squirrels.png?raw=true)
 
-# Map of all Cinnamon Squirrels in Central Park
+## Map of all Cinnamon Squirrels in Central Park
 ![Distributions of Squirrel Primary Fur Colors](https://github.com/colonistz-1/2018centralpark_squirrel_census/blob/main/Images/map_of_all_cinnamon_squirrels.png?raw=true)
 
-# Map of all Black Squirrels in Central Park
+## Map of all Black Squirrels in Central Park
 ![Distributions of Squirrel Primary Fur Colors](https://github.com/colonistz-1/2018centralpark_squirrel_census/blob/main/Images/map_of_all_black_squirrels.png?raw=true)
 
-# Map of all Unknown Squirrels in Central Park
+## Map of all Unknown Squirrels in Central Park
 ![Distributions of Squirrel Primary Fur Colors](https://github.com/colonistz-1/2018centralpark_squirrel_census/blob/main/Images/map_of_all_unknown_squirrels.png?raw=true)
 
 Report containing findings using data which can be presented to a an ethologist or a animal biologist showing insights on where squirrels of different fur color are seen.
