@@ -12,7 +12,7 @@ Generating Report for all locations of all primary fur color for squirrels and s
 Jupyter Notebook - Anaconda 
 
 
-## Result
+## Results 
 
 *Outputs and results have not been cleared from the jupyter notebook for user convenience*
 
