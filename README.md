@@ -6,7 +6,7 @@ Squirrel Fur Color and Location Analysis, with data visualization. Creating maps
 
 Analysing the distributions and maps of squirrels and their fur colors using 2018 Squirrel Central Park Census.
 
-Generating Report for all locations of all primary fur color for squirrels and saving it in a pdf file.
+Generating Report for all locations of all primary fur color for squirrels.
 
 ## Software 
 Jupyter Notebook - Anaconda 
